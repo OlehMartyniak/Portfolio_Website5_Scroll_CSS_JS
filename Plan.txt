@@ -1,0 +1,6 @@
+Video source: 
+https://www.youtube.com/watch?v=Zwa5z9Ws7y4&ab_channel=CodingSnow
+
+ScrollReveal library:
+
+https://scrollrevealjs.org
